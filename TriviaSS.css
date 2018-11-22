@@ -1,0 +1,67 @@
+﻿.container-fluid {
+    background-image: url("https://static2.timeout.co.il/media/2016/10/sizes/all-1-h_wo_680_382.jpg");
+}
+
+.MaxSize {
+    width: 100%;
+    height: 100%;
+}
+h1 {
+    text-align: center;
+}
+.Lable {
+    color: black;
+    font-size: 23px;
+    font-style: italic;
+}
+
+#QuestionArea {
+    margin-left: 260px;
+    margin-top: 70px;
+    width: 600px;
+    height: 250px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.booleanButton {
+    width: 200px;
+    height: 40px;
+    margin-left: 460px;
+}
+
+.multipleButton {
+    width: 400px;
+    height: 40px;
+    margin-left: 460px;
+}
+
+#StartButton {
+    width: 200px;
+    height: 40px;
+    margin-left: 100px;
+}
+
+#DivPoints {
+    width: 100px;
+    height: 80px;
+    border-radius: 40px;
+    border: 3px solid black;
+    background-color: blue;
+    margin-left: 100px;
+    text-align: center;
+}
+
+#Points {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 17px;
+}
+
+#FinishButton {
+    width: 200px;
+    height: 40px;
+    margin-left: 460px;
+    background-color: yellow;
+}

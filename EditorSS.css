@@ -1,0 +1,11 @@
+﻿.container-fluid {
+    background-image: url("http://yo-yoo.co.il/pics/uploads/a40d60.jpg") !important;
+}
+.Textblock {
+    background-color: white !important;
+    width: 100%;
+    height: 100%;
+}
+#result {
+    border: 1px solid #808080;
+}
